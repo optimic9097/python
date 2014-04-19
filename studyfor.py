@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-str='hello world';
+str=[1,2,3,34]
 print str;
